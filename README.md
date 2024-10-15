@@ -21,3 +21,8 @@ This repository will be updated throughout the course. Always check to see if th
 ### Testing a PR
 
 Test test 
+
+### HW 1 Additions
+
+exercise 1
+exercose 2
